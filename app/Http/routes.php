@@ -15,4 +15,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/', 'DrinkController@index');
+// Route::get('/', 'DrinkController@index');
