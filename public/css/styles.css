@@ -1,0 +1,30 @@
+body {
+  padding-top: 80px;
+}
+
+li {
+  list-style: none;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.jumbotron {
+  font-size: 3em;
+  color: #fff;
+  background: #982c86;
+  line-height: 1.5em;
+}
+
+.row h1 {
+  font-size: 19px;
+}
+
+#contain {
+  margin-bottom: 25px;
+}
+
+#utility {
+  margin-bottom: 10px;
+}
